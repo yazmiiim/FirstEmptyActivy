@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAppEmptyActivity</string>
+    <string name="ol_planeta">Olá planeta!</string>
+    <string name="Button">Button</string>
+</resources>
